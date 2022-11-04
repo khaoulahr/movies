@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/khaoulahr/movies/static/css/main.57f0e686.css",
+    "main.js": "/khaoulahr/movies/static/js/main.da823232.js",
+    "index.html": "/khaoulahr/movies/index.html",
+    "main.57f0e686.css.map": "/khaoulahr/movies/static/css/main.57f0e686.css.map",
+    "main.da823232.js.map": "/khaoulahr/movies/static/js/main.da823232.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.57f0e686.css",
+    "static/js/main.da823232.js"
+  ]
+}
